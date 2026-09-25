@@ -31,14 +31,20 @@ streamlit run streamlit/app.py
 
 ## Dataset source and citation
 
-The app uses a 50-record synthetic disaster-narrative dataset generated locally by
-`extract_topic_csv.py` for this CS 315 Activity 3 project. The records are original
-demonstration data created for the app and are not copied from an external dataset.
+The app uses 26,178 non-empty messages from the Udacity Disaster Response dataset,
+created in collaboration with Figure Eight. `extract_topic_csv.py` downloads the
+messages and category labels, then transforms them into the dashboard schema.
+
+Source files:
+
+- https://github.com/canaveensetia/udacity-disaster-response-pipeline/tree/master/data
+- https://github.com/udacity
+- https://www.figure-eight.com/
 
 Suggested citation for the submission document:
 
-> XueShadow. (2026). *Synthetic disaster narrative dataset for CS 315 Activity 3*
-> [CSV dataset]. GitHub. https://github.com/XueShadow/Activity-3_Building-a-GenAI-App
+> Udacity and Figure Eight. (2017). *Disaster Response Messages dataset* [Data set].
+> Retrieved from https://github.com/canaveensetia/udacity-disaster-response-pipeline/tree/master/data
 
 The optional narrative analysis uses Hugging Face Inference API models. Cite the
 specific model shown in the app's deployment configuration if AI-generated results
