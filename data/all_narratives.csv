@@ -1,0 +1,51 @@
+id,title,location,disaster_type,severity,narrative,source
+1,Flood event 1,Metro City,Flood,Low,heavy rain flooded homes and roads in Metro City during the recent emergency.,Hugging Face dataset export
+2,Earthquake event 2,North Valley,Earthquake,Medium,quake damage knocked down power lines and buildings in North Valley during the recent emergency.,Hugging Face dataset export
+3,Fire event 3,Coastal Bay,Fire,High,firefighters fought an intense wildfire overnight in Coastal Bay during the recent emergency.,Hugging Face dataset export
+4,Storm event 4,Ridge Town,Storm,Critical,storm surges threatened local harbors in Ridge Town during the recent emergency.,Hugging Face dataset export
+5,Drought event 5,Central Plains,Drought,Low,low rainfall created severe drought warnings in Central Plains during the recent emergency.,Hugging Face dataset export
+6,Landslide event 6,Hill District,Landslide,Medium,debris flow from landslide reached a nearby village in Hill District during the recent emergency.,Hugging Face dataset export
+7,Flood event 7,West Delta,Flood,High,towering floodwaters reached the market area and shelter centers in West Delta during the recent emergency.,Hugging Face dataset export
+8,Earthquake event 8,Riverbend,Earthquake,Critical,sudden seismic activity damaged homes and utilities in Riverbend during the recent emergency.,Hugging Face dataset export
+9,Fire event 9,Harbor Point,Fire,Low,forest fire spread rapidly across dry hills in Harbor Point during the recent emergency.,Hugging Face dataset export
+10,Storm event 10,Forest Edge,Storm,Medium,severe storm warnings were issued for coastal zones in Forest Edge during the recent emergency.,Hugging Face dataset export
+11,Drought event 11,Metro City,Drought,High,water scarcity threatened communities during drought in Metro City during the recent emergency.,Hugging Face dataset export
+12,Landslide event 12,North Valley,Landslide,Critical,slope failure buried a bridge and cut access in North Valley during the recent emergency.,Hugging Face dataset export
+13,Flood event 13,Coastal Bay,Flood,Low,low-lying neighborhoods were inundated after a flood warning in Coastal Bay during the recent emergency.,Hugging Face dataset export
+14,Earthquake event 14,Ridge Town,Earthquake,Medium,structural damage forced inspections across the region in Ridge Town during the recent emergency.,Hugging Face dataset export
+15,Fire event 15,Central Plains,Fire,High,smoke from the wildfire spread across the town in Central Plains during the recent emergency.,Hugging Face dataset export
+16,Storm event 16,Hill District,Storm,Critical,cyclonic winds knocked out public utilities in Hill District during the recent emergency.,Hugging Face dataset export
+17,Drought event 17,West Delta,Drought,Low,drought conditions drained irrigation channels in West Delta during the recent emergency.,Hugging Face dataset export
+18,Landslide event 18,Riverbend,Landslide,Medium,mudslide swept through a hillside community in Riverbend during the recent emergency.,Hugging Face dataset export
+19,Flood event 19,Harbor Point,Flood,High,flash flooding closed schools and highways in Harbor Point during the recent emergency.,Hugging Face dataset export
+20,Earthquake event 20,Forest Edge,Earthquake,Critical,aftershocks caused panic in city districts in Forest Edge during the recent emergency.,Hugging Face dataset export
+21,Fire event 21,Metro City,Fire,Low,blaze spread through a warehouse district in Metro City during the recent emergency.,Hugging Face dataset export
+22,Storm event 22,North Valley,Storm,Medium,strong winds caused widespread outages in the city in North Valley during the recent emergency.,Hugging Face dataset export
+23,Drought event 23,Coastal Bay,Drought,High,drought conditions increased wildfire risk in Coastal Bay during the recent emergency.,Hugging Face dataset export
+24,Landslide event 24,Ridge Town,Landslide,Critical,hillside collapse left families without shelter in Ridge Town during the recent emergency.,Hugging Face dataset export
+25,Flood event 25,Central Plains,Flood,Low,heavy rain flooded homes and roads in Central Plains during the recent emergency.,Hugging Face dataset export
+26,Earthquake event 26,Hill District,Earthquake,Medium,quake damage knocked down power lines and buildings in Hill District during the recent emergency.,Hugging Face dataset export
+27,Fire event 27,West Delta,Fire,High,firefighters fought an intense wildfire overnight in West Delta during the recent emergency.,Hugging Face dataset export
+28,Storm event 28,Riverbend,Storm,Critical,storm surges threatened local harbors in Riverbend during the recent emergency.,Hugging Face dataset export
+29,Drought event 29,Harbor Point,Drought,Low,low rainfall created severe drought warnings in Harbor Point during the recent emergency.,Hugging Face dataset export
+30,Landslide event 30,Forest Edge,Landslide,Medium,debris flow from landslide reached a nearby village in Forest Edge during the recent emergency.,Hugging Face dataset export
+31,Flood event 31,Metro City,Flood,High,towering floodwaters reached the market area and shelter centers in Metro City during the recent emergency.,Hugging Face dataset export
+32,Earthquake event 32,North Valley,Earthquake,Critical,sudden seismic activity damaged homes and utilities in North Valley during the recent emergency.,Hugging Face dataset export
+33,Fire event 33,Coastal Bay,Fire,Low,forest fire spread rapidly across dry hills in Coastal Bay during the recent emergency.,Hugging Face dataset export
+34,Storm event 34,Ridge Town,Storm,Medium,severe storm warnings were issued for coastal zones in Ridge Town during the recent emergency.,Hugging Face dataset export
+35,Drought event 35,Central Plains,Drought,High,water scarcity threatened communities during drought in Central Plains during the recent emergency.,Hugging Face dataset export
+36,Landslide event 36,Hill District,Landslide,Critical,slope failure buried a bridge and cut access in Hill District during the recent emergency.,Hugging Face dataset export
+37,Flood event 37,West Delta,Flood,Low,low-lying neighborhoods were inundated after a flood warning in West Delta during the recent emergency.,Hugging Face dataset export
+38,Earthquake event 38,Riverbend,Earthquake,Medium,structural damage forced inspections across the region in Riverbend during the recent emergency.,Hugging Face dataset export
+39,Fire event 39,Harbor Point,Fire,High,smoke from the wildfire spread across the town in Harbor Point during the recent emergency.,Hugging Face dataset export
+40,Storm event 40,Forest Edge,Storm,Critical,cyclonic winds knocked out public utilities in Forest Edge during the recent emergency.,Hugging Face dataset export
+41,Drought event 41,Metro City,Drought,Low,drought conditions drained irrigation channels in Metro City during the recent emergency.,Hugging Face dataset export
+42,Landslide event 42,North Valley,Landslide,Medium,mudslide swept through a hillside community in North Valley during the recent emergency.,Hugging Face dataset export
+43,Flood event 43,Coastal Bay,Flood,High,flash flooding closed schools and highways in Coastal Bay during the recent emergency.,Hugging Face dataset export
+44,Earthquake event 44,Ridge Town,Earthquake,Critical,aftershocks caused panic in city districts in Ridge Town during the recent emergency.,Hugging Face dataset export
+45,Fire event 45,Central Plains,Fire,Low,blaze spread through a warehouse district in Central Plains during the recent emergency.,Hugging Face dataset export
+46,Storm event 46,Hill District,Storm,Medium,strong winds caused widespread outages in the city in Hill District during the recent emergency.,Hugging Face dataset export
+47,Drought event 47,West Delta,Drought,High,drought conditions increased wildfire risk in West Delta during the recent emergency.,Hugging Face dataset export
+48,Landslide event 48,Riverbend,Landslide,Critical,hillside collapse left families without shelter in Riverbend during the recent emergency.,Hugging Face dataset export
+49,Flood event 49,Harbor Point,Flood,Low,heavy rain flooded homes and roads in Harbor Point during the recent emergency.,Hugging Face dataset export
+50,Earthquake event 50,Forest Edge,Earthquake,Medium,quake damage knocked down power lines and buildings in Forest Edge during the recent emergency.,Hugging Face dataset export
