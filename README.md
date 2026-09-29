@@ -435,7 +435,6 @@ Status: Completed for CS 315 Activity 3
 
 The current version includes dataset processing, interactive filtering, visualization, GenAI-assisted narrative analysis, and dataset chatbot functionality.
 
-⸻
 
 Author
 
