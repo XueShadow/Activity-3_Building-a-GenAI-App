@@ -1,0 +1,139 @@
+DateTime,Year,Month,Location,Island Partition,Country,lat,lon,TOR,HAIL,WIND,Tags,Documentation_1,Documentation_2,Documentation_3,Notes,Outbreak,Status Indicator
+yyyymmdd_hhmm (UTC),Designated year,Designated month,Town–City ST,"Whether the location is in Luz, Vis, or Min.",CT,(+/-)°N,(+/-)°E,F#,cm,m/s,"tornado, derecho, hail, supercell, etc.","Please provide up to 3 links to youtube, twitter, etc. showing photos/video, if possible) ",,,Interesting fact about this event (not necessary),Name of outbreak or hurricane (if applies),Whether the documentation link is active or not
+20070917_0700,2007,September,"Barangay 1, Bacolod City",Visayas,PH,10.691265,122.952795,EF1,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20080731_0800,2008,July,"Mactan, Cebu",Visayas,PH,10.380048,124.045112,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20090527_0930,2009,May,"Manila City, Metro Manila",Luzon,PH,14.637909,120.932766,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20100710_0600,2010,July,"Danao City, Cebu",Visayas,PH,10.62061,124.199039,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20110724_0800,2011,July,"San Pedro, Laguna",Luzon,PH,14.374362,121.081747,EF0,*,*,waterspout (non-tornadic) ,Source 1,Source 2,,,*,Active
+20120813_0500,2012,August,"Baybay, Leyte",Visayas,PH,10.67298,124.783095,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20130904_0700,2013,September,"Poblacion-Pinamungajan, Cebu",Visayas,PH,10.267674,123.584604,EF1,*,*,"hail, waterspout (non-tornadic)",Source 1,,,No pictures of the hail sample and waterspout.,*,Active
+20131006_0830,2013,October,"Metro Cebu, Cebu",Visayas,PH,10.279716,123.892278,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20131014_0200,2013,October,"Malimono, Surigao Del Norte",Mindanao,PH,9.659029,125.391618,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20140423_0900,2014,April,"New Ilocos, Davao del Sur",Mindanao,PH,6.730317,125.195357,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20140816_0930,2014,August,"Manila City, Metro Manila",Luzon,PH,14.618251,120.788949,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20141017_1830,2014,October,"Borbon, Cebu",Visayas,PH,10.835212,124.040176,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20141030_0400,2014,October,"Hinigaran, Negros Occidental",Visayas,PH,10.276917,122.843942,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20150704_0400,2015,July,"Aringay, La Union",Luzon,PH,16.401108,120.307985,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20150902_0500,2015,September,"Dagupan city, Pangasinan",Luzon,PH,16.046836,120.327492,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20150903_0600,2015,September,"Cordova, Cebu",Visayas,PH,10.246214,123.963614,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20150904_0600,2015,September,"Daanbantayan, Cebu",Visayas,PH,11.29967,124.038399,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20160612_0600,2016,June,"Bantayan Island, Cebu",Visayas,PH,11.144301,123.872398,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20160630_0600,2016,June,"Camotes Islands, Cebu",Visayas,PH,10.706219,124.384869,EF0,*,*,waterspout (non-tornadic),Source 1,,,No pictures/videos of the waterspout.,*,Active
+20160729_0700,2016,July,"Mataas na Kahoy, Batangas",Luzon,PH,14.011687,121.058882,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20160921_0600,2016,September,"Libon, Albay",Luzon,PH,13.204775,123.320985,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20161028_0600,2016,October,"Valladolid, Negros Occiddental",Visayas,PH,10.436877,122.822258,EF1,*,z,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20170424_0500,2017,April,"Mabini, Batangas",Luzon,PH,13.740946,120.889149,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20170620_0400,2017,June,"Lapu-Lapu City, Cebu",Visayas,PH,10.182214,123.884054,EF0,*,*,waterspout (non-tornadic),Source 1,,,Mini Triple spouts,*,Active
+20170627_0500,2017,June,"Romblon, Romblon",Luzon,PH,12.568939,122.229662,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20170629_0900,2017,June,"Marawi City, Lanao del Sur",Mindanao,PH,7.986801,122.229662,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20170820_0500,2017,August,"Kawayan, Biliran",Visayas,PH,11.682704,124.34232,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20170918_0400,2017,September,"Metro Cebu, Cebu",Visayas,PH,10.230526,123.880835,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20180625_0500,2018,June,"Camotes Islands, Cebu",Visayas,PH,10.762268,124.486598,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20180920_0730,2018,September,"Olongapo City, Zambales",Luzon,PH,14.828036,120.252962,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20191025_0600,2019,October,"Maasim, Sarangani",Mindanao,PH,5.854661,124.99394,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20191030_0600,2019,October,"Mati, Davao Oriental",Mindanao,PH,6.858595,126.239719,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20200530_0930,2020,May,Laguna De Bay,Luzon,PH,14.381882,121.132472,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,Triple spouts,*,Active
+20200720_0330,2020,July,"Dauis, Bohol",Visayas,PH,9.645446,123.844561,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20200721_0600,2020,July,"Pinamucan, Batangas",Luzon,PH,13.698914,121.046778,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20200723_0800,2020,July,"Lingayen, Pangasinan",Luzon,PH,16.055727,120.221892,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20200728_0800,2020,July,"Candon City, Ilocos Sur",Luzon,PH,17.169319,120.422382,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20200813_0500,2020,August,"Calubian, Leyte",Visayas,PH,11.481463,124.424895,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20200819_0600,2020,August,"Baleno, Masbate",Visayas,PH,12.614592,123.478358,EF0,*,*,waterspout (non-tornadic),Source 1,,,After a Magnitude 6.6 Earthquake,*,Active
+20201002_0600,2020,October,"Daanbantayan, Cebu",Visayas,PH,11.296333,124.050109,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20201005_0900,2020,October,"Cagayan De Oro City, Misamis Oriental",Mindanao,PH,8.521353,124.63397,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20201016_0600,2020,October,"Daanbantayan, Cebu",Visayas,PH,11.302643,124.052091,EF0,*,*,waterspout (non-tornadic),Source 1,,,Dual spouts,*,Active
+20201031_0530,2020,October,"Riotuba Bataraza, Palawan",Luzon,PH,8.481874,117.466544,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20210103_0600,2021,January,"Zamboanga City, Zamboanga del Sur",Mindanao,PH,7.047859,122.353435,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20210221_0600,2021,February,"Tandag, Bukidnon",Mindanao,PH,8.993429,126.866008,EF0,*,*,"waterspout (tornadic), supercell",DOST-PAGASA,,,With Radar Data from DOST-PAGASA. No pictures/videos of the waterspout.,*,Active
+20210602_0700,2021,June,"Bantayan Island, Cebu",Visayas,PH,11.266789,123.814936,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20210610_0500,2021,June,"Cabugao, Ilocos Sur",Luzon,PH,17.771822,120.413198,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20210627_0200,2021,June,"Olutanga, Zamboanga Sibugay",Mindanao,PH,7.303853,122.84621,EF1,*,*,waterspout (non-tornadic),NDRRMC,Source 2,Source 3,,*,Active
+20210703_0300,2021,July,"Baybay City, Leyte",Visayas,PH,10.792665,124.76939,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20210810_0600,2021,August,"Tayabas, Quezon",Luzon,PH,13.905024,121.725719,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20210820_0500,2021,August,"Almagro, Samar",Visayas,PH,11.898125,124.280456,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20210821_0600,2021,August,"Albay Gulf, Legazpi City",Luzon,PH,13.178135,123.868229,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20211127_0800,2021,November,"San Fernando, Romblon",Mindanao,PH,12.278906,122.621985,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220413_0500,2022,April,"Cantil Beach, Samar",Visayas,PH,11.107664,125.68459,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220426_0600,2022,April,"Balud, Masbate",Visayas,PH,11.904451,123.169797,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220503_0200,2022,May,"Metro Cebu, Cebu",Visayas,PH,10.264388,123.88593,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20220506_0300,2022,May,"Lakewood, Zamboanga Del Sur",Mindanao,PH,7.845392,123.165858,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220519_0600,2022,May,"Morong, Bataan",Luzon,PH,14.696997,120.247895,EF0,*,*,waterspout (non-tornadic),Source 1,,,Triple spouts,*,Active
+20220519_0600,2022,May,"Bacolod City, Negros Occidental",Visayas,PH,10.699341,122.887648,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20220527_0600,2022,May,"Guihulngan, Negros Oriental",Visayas,PH,10.144988,123.362685,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220601_0700,2022,June,"Bangar, La Union",Luzon,PH,16.898755,120.397661,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220603_0400,2022,June,"Tanjay City, Negros Oriental",Visayas,PH,9.525283,123.237578,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220611_0600,2022,June,"Guihulngan, Negros Oriental",Visayas,PH,10.151901,123.298269,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20220621_0300,2022,June,"Argao, Cebu",Visayas,PH,9.869668,123.669152,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220622_0200,2022,June,"Dauis, Bohol",Visayas,PH,9.644861,123.817512,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20220622_0600,2022,June,"Mantigue, Camiguin",Mindanao,PH,9.170545,124.816864,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220622_0700,2022,June,"Roxas, Capiz",Visayas,PH,11.631818,122.845111,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220628_0500,2022,June,"Dela Paz Proper, Batangas City",Luzon,PH,13.618581,121.102285,EF1,*,*,waterspout (tornadic),Source 1,Source 2,Source 3,,*,Active
+20220717_0600,2022,July,"Lingayen, Pangasinan",Luzon,PH,16.055976,120.231396,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20220727_0500,2022,July,"Bolinao, Pangasinan",Luzon,PH,16.440796,119.866523,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20220805_0830,2022,August,"Concepcion, Iloilo",Visayas,PH,11.221456,123.184591,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20220807_0045,2022,August,"Catmon, Cebu",Visayas,PH,10.653823,124.037402,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220906_0700,2022,September,"San Pascual, Masbate",Visayas,PH,13.132489,122.971567,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20220909_0530,2022,September,"Lapu-Lapu City, Cebu",Visayas,PH,10.340067,124.006399,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20221005_0600,2022,October,"Lapu-Lapu City, Cebu",Visayas,PH,10.285549,124.007558,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20221127_0300,2022,November,"Panglao, Bohol",Visayas,PH,9.604489,123.693499,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20230120_0500,2023,January,"Manukan, Zamboanga del Norte",Mindanao,PH,8.524985,123.128402,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230210_0600,2023,February,"San Isidro, Surigao del Norte",Mindanao,PH,9.948009,126.120695,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20230326_0700,2023,March,Boracay Island,Visayas,PH,11.983627,121.950178,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230429_0700,2023,April,"Quezon, Palawan",Luzon,PH,9.241011,117.995395,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20230516_2300,2023,May,Malapascua Island,Visayas,PH,11.311689,124.162865,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230520_0500,2023,May,Treacherous Bay,Luzon,PH,9.305236,118.009197,EF0,*,*,waterspout (non-tornadic),Source 1,,,Quadruple spouts,*,Active
+20230525_0400,2023,May,"Don Marcelino, Davao Occidental",Mindanao,PH,6.119472,125.712922,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230525_0600,2023,May,"Nasugbu, Batangas",Luzon,PH,14.10573,120.607334,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230603_0630,2023,June,"Alicia, Zamboanga Sibugay",Mindanao,PH,7.501814,122.907225,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20230607_0500,2023,June,"Silay City, Bacolod",Visayas,PH,10.804783,122.930894,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230609_0400,2023,June,"Poro, Cebu",Visayas,PH,10.722081,124.384704,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20230609_0500,2023,June,Hilantagaan Island,Visayas,PH,11.198916,123.842898,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230614_0500,2023,June,"San Jose, Occidental Mindoro",Visayas,PH,12.336323,121.009751,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230626_0400,2023,June,"Orion, Bataan",Luzon,PH,14.575738,120.595972,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20230706_0730,2023,July,"Sablayan, Occidental Mindoro",Visayas,PH,12.87128,120.754585,EF0,*,*,waterspout (non-tornadic),ICWR,,,,*,Active
+20230710_0830,2023,July,"Baybay, Leyte",Visayas,PH,10.700921,124.781339,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20230819_0200,2023,August,"Sibutu,Tawi-Tawi",Mindanao,PH,4.606587,119.682228,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20230907_2300,2023,September,"Garcia Hernandez, Bohol",Visayas,PH,9.502432,124.330574,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,Quadruple spouts,*,Active
+20231010_0400,2023,October,"Bayawan City, Negros Oriental",Visayas,PH,9.329556,122.816521,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20231026_0600,2023,October,"Ozamiz City, Misamis Occidental",Mindanao,PH,8.122145,123.83133,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20231107_0400,2023,November,"Jordan Wharf, Guimaras",Visayas,PH,10.672335,122.586845,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20240129_0700,2024,January,"Looc, Occidental Mindoro",Luzon,PH,13.81546,120.239691,EF0,*,*,waterspout (non-tornadic),NDRRMC,,,No pictures/videos of the waterspout.,*,Active
+20240514_0400,2024,May,"Buruanga, Aklan",Visayas,PH,11.849296,121.865202,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20240602_0600,2024,June,"Dumaran, Palawan",Luzon,PH,10.475574,119.693174,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,Dual spouts,*,Active
+20240605_1000,2024,June,"Dumangas, Iloilo",Visayas,PH,10.764939,122.836484,EF0,*,*,waterspout (non-tornadic),Source 1,,,,*,Active
+20240613_1000,2024,June,"Escalante City, Negros Occidental",Visayas,PH,10.865778,123.551661,EF0,*,*,waterspout (non-tornadic),Source 1,,,Dual spouts,*,Active
+20240702_0600,2024,July,"Malay, Aklan",Visayas,PH,11.967633,121.934917,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,Source 3,,*,Active
+20240705_0600,2024,July,"Bolinao, Pangasinan",Luzon,PH,16.430259,119.966772,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240705_0800,2024,July,"Victorias City, Negros Occidental",Luzon,PH,10.923435,123.072423,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,Dual spouts,*,Active
+20240705_0900,2024,July,"Verde Island, Batangas",Luzon,PH,13.587818,121.001067,EF0,*,*,waterspout (non-tornadic),Source 1,,,"Initially, Triple spouts. Transitioned to Dual spouts.",*,Active
+20240707_0900,2024,July,"Lemery, Batangas",Luzon,PH,13.874132,120.865098,EF0,*,*,waterspout (non-tornadic),Source 1,Source 2,,,*,Active
+20240716_0300,2024,July,"Getafe, Bohol",Visayas,PH,10.19018,124.155908,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240718_0800,2024,July,"Opol, Misamis Oriental",Mindanao,PH,8.525327,124.578865,EF0,*,*,waterspout (tornadic) ,Source 1,Source 2,Source 3,,*,Active
+20240720_0500,2024,July,"Dimiao, Bohol",Visayas,PH,9.597626,124.155582,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240721_0600,2024,July,Polillo Island,Luzon,PH,14.757615,121.856301,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240723_0600,2024,July,"Concepcion, Iloilo",Visayas,PH,11.215412,123.116751,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240725_0700,2024,July,"Narra, Palawan",Luzon,PH,9.244168,118.405006,EF0,*,*,waterspout (tornadic) ,Source 1,Source 2,Source 3,,*,Active
+20240727_0700,2024,July,"Argao, Cebu",Luzon,PH,9.87151,123.61442,EF0,*,*,waterspout (non-tornadic) ,Source 1,Source 2,,,*,Active
+20240812_0600,2024,August,"Mariveles, Bataan",Luzon,PH,14.436537,120.657627,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240813_0400,2024,August,"Sinait, Ilocos Sur",Luzon,PH,17.827908,120.449562,EF0,*,*,waterspout (non-tornadic),Source 1,,,Brief spin-up.,*,Active
+20240815_0000,2024,August,"Anda, Bohol",Visayas,PH,9.780976,124.630729,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240816_0600,2024,August,"Jetafe, Bohol",Visayas,PH,10.133329,124.142572,EF1,*,*,waterspout (tornadic),Source 1,Source 2,Source 3,Sidewinder Tornado,*,Active
+20240817_0200,2024,August,"Binangonan, Rizal",Luzon,PH,14.425989,121.18752,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240818_0600,2024,August,"Carles, Iloilo",Visayas,PH,11.538631,123.167134,EF0,*,*,waterspout (non-tornadic) ,Source 1,Source 2,,"Initially, dual spouts",*,Active
+20240822_0800,2024,August,"Mandaue City, Cebu",Visayas,PH,10.343085,123.978908,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240823_0530,2024,August,"Lapu-Lapu City, Cebu",Visayas,PH,10.31881,123.957092,EF0,*,*,waterspout (tornadic) ,Source 1,Source 2,Source 3,"Likely a re-cycled from the Liloan, Cebu tornado earlier in the morning.",*,Active
+20240823_0800,2024,August,"Catmon, Cebu",Visayas,PH,10.667904,124.022865,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240824_0400,2024,August,Panay Gulf,Visayas,PH,10.293906,122.370335,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240824_0600,2024,August,"Calbiga, Samar",Visayas,PH,11.640861,124.983866,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240824_0600,2024,August,"Burias Island, Masbate",Visayas,PH,12.691776,123.384505,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240824_0930,2024,August,"Dipolog City, Zamboanga Del Norte",Mindanao,PH,8.571776,123.331099,EF0,*,*,waterspout (non-tornadic) ,Source 1,Source 2,Source 3,,*,Active
+20240825_0130,2024,August,"Guincaiptan, Masbate",Visayas,PH,12.225307,123.222183,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240825_0800,2024,August,"Ormoc City, Leyte",Visayas,PH,10.987255,124.597107,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240826_0400,2024,August,"Sipocot, Camarines Sur",Luzon,PH,13.692144,123.065844,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240828_0500,2024,August,"Catbalogan, Samar",Visayas,PH,11.73893,124.920708,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240830_0430,2024,August,Ticao Pass,Visayas,PH,12.611652,123.788594,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240830_0800,2024,August,"Tinigbasan, Agusan Del Norte",Mindanao,PH,9.274938,125.505619,EF0,*,*,waterspout (non-tornadic) ,Source 1,Source 2,Source 3,,*,Active
+20240831_0300,2024,August,"Agdangan, Quezon",Luzon,PH,13.834685,121.919098,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240831_0600,2024,August,"Inabanga, Bohol",Visayas,PH,10.045147,124.038458,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240901_0800,2024,September,"Calatrava, Romblon",Luzon,PH,12.624154,122.036259,EF0,*,*,waterspout (non-tornadic) ,Source 1,,,,*,Active
+20240902_0200,2024,September,"Sangali, Zamboang City",Mindanao,PH,7.064745,122.244953,EF0,*,*,waterspout (tornadic) ,Source 1,Source 2,Source 3,,*,Active

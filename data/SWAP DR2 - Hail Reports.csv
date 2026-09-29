@@ -1,0 +1,175 @@
+DateTime,Year,Month,Location,Island Partition,Country,lat,lon,TOR,HAIL,Hail Scale,Tags,Documentation_1,Documentation_2,Documentation_3,Notes,Outbreak,Status Indicator
+yyyymmdd_hhmm (UTC),Designated year,Designated month,Town–City ST,"Whether the location is in Luz, Vis, or Min.",CT,(+/-)°N,(+/-)°E,F#,cm,Scale of hail fall based of estimated size.,"tornado, derecho, hail, supercell, etc.","Please provide up to 3 links to youtube, twitter, etc. showing photos/video, if possible) ",,,Interesting fact about this event (not necessary),Name of outbreak or hurricane (if applies),Whether the documentation link is active or not
+20060624_0800,2006,June,"Baguio City, Benguet",Luzon,PH,16.417397,120.580099,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20070731_0700,2007,July,"Baguio City, Benguet",Luzon,PH,16.42309,120.616512,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20071009_0500,2007,October,"Santolan, Quezon City",Luzon,PH,14.607654,121.063245,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080417_0800,2008,April,"Solsona, Ilocos Norte",Luzon,PH,18.10313,120.79353,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080607_0600,2008,June,"Banaue, Ifugao",Luzon,PH,16.923213,121.064486,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080607_0600,2008,June,"Tinoc, Ifugao",Luzon,PH,16.676199,120.947038,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080607_0600,2008,June,"Hingyon, Ifugao",Luzon,PH,16.859859,121.09498,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080607_0600,2008,June,"Asipulo, Ifugao",Luzon,PH,16.732114,121.065685,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20080607_0600,2008,June,"Lagawe, Ifugao",Luzon,PH,16.802741,121.113442,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20090422_0800,2009,April,Isabela,Luzon,PH,,,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20100609_1000,2010,June,"Las Piñas City, Metro Manila",Luzon,PH,14.465623,120.97125,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20100703_0700,2010,July,"San Mateo, Rizal",Luzon,PH,14.70928,121.136612,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20110419_0600,2011,April,"Solano, Nueva Vizcaya",Luzon,PH,16.526759,121.187216,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20110817_0600,2011,August,"Baguio City, Benguet",Luzon,PH,16.399437,120.601989,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20120517_0530,2012,May,"Pinamungajan, Cebu",Visayas,PH,10.271523,123.660234,*,*,Undefined,hail,Source 1,Source 2,Source 3,No pictures of the hail sample.,*,Active
+20130514_0600,2013,May,"Quezon City, Metro Manila",Luzon,PH,14.64034,121.015888,*,1 cm,Small,hail,Source 1,Source 2,Source 3,Pellet size,*,Active
+20130528_0600,2013,May,"Bocaue, Bulacan",Luzon,PH,14.793088,120.929969,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20130602_0600,2013,June,"Lipa City, Batangas",Luzon,PH,13.930044,121.147575,*,1 cm,Small,hail,Source 1,,,,*,Active
+20130604_0600,2013,June,"Basista, Pangasinan",Luzon,PH,15.877755,120.388484,*,3 cm,Large,hail,Source 1,,,,*,Active
+20130707_0700,2013,July,"Dingras, Ilocos Norte",Luzon,PH,18.095574,120.702888,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20130707_0700,2013,July,"Solsona, Ilocos Norte",Luzon,PH,18.090679,120.770437,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20130904_0800,2013,September,"Binabag-Pinamungajan, Cebu",Visayas,PH,10.258121,123.596634,EF1,*,Undefined,"hail, waterspout (non-tornadic)",Source 1,,,No pictures of the hail sample and waterspout.,*,Active
+20130904_0800,2013,September,"Pandacan-Pinamungajan, Cebu",Visayas,PH,10.284029,123.588377,EF1,*,Undefined,"hail, waterspout (non-tornadic)",Source 1,,,No pictures of the hail sample and waterspout.,*,Active
+20130904_0800,2013,September,"Poblacion-Pinamungajan, Cebu",Visayas,PH,10.269703,123.588849,EF1,*,Undefined,"hail, waterspout (non-tornadic)",Source 1,,,No pictures of the hail sample and waterspout.,*,Active
+20140521_0630,2014,May,"Rodriguez, Rizal",Luzon,PH,14.714393,121.137818,*,3 cm,Large,hail,Source 1,Source 2,,,*,Active
+20140902_0600,2014,September,"Monkayo, Davao de Oro",Mindanao,PH,7.823168,126.048324,*,1 cm,Small,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20140917_0700,2014,September,"Makati City, Metro Manila",Luzon,PH,14.554625,121.02438,*,3 cm,Large,hail,Source 1,,,,*,Active
+20141014_0800,2014,October,"Balabagan, Lanao del Sur",Mindanao,PH,7.55141,124.105398,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20150421_0700,2015,April,"Quezon City, Metro Manila",Luzon,PH,14.737064,121.047536,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20150421_0700,2015,April,"San Jose del Monte, Bulacan",Luzon,PH,14.802554,121.066877,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20150421_0700,2015,April,"Bocaue, Bulacan",Luzon,PH,14.790828,120.930501,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20150421_0700,2015,April,"Trese Martires, Cavite",Luzon,PH,14.277097,120.865288,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20150507_0600,2015,May,"Dasmarinas, Cavite",Luzon,PH,14.317846,120.95262,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20150701_0600,2015,July,"Bayombong, Nueva Vizcaya",Luzon,PH,16.495602,121.168641,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20150722_0800,2015,July,"Quezon City, Metro Manila",Luzon,PH,14.701904,121.065588,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20150722_0800,2015,July,"Marikina City, Metro Manil",Luzon,PH,14.650916,121.105224,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20160718_0800,2016,July,"Indang, Cavite",Luzon,PH,14.173921,120.89886,*,3 cm,Large,hail,Source 1,,,,*,Active
+20170502_0830,2017,May,"Wao, Lanao del Sur",Mindanao,PH,7.640587,124.724828,*,*,Undefined,hail,Source 1,,,,*,Active
+20170508_0800,2017,May,"Surallah, South Cotabato",Mindanao,PH,6.37538,124.745698,*,2 cm,Severe,hail,Source 1,Source 2,,,*,Active
+20170615_0900,2017,June,"Batasan Hills, Quezon City",Luzon,PH,14.681717,121.09131,*,3 cm,Large,hail,Source 1,Source 2,Source 3,,*,Active
+20170615_0900,2017,June,"Penaranda, Nueva Ecija",Luzon,PH,15.340738,121.011918,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20170615_0930,2017,June,"Alabang, Metro Manila",Luzon,PH,14.422682,121.04885,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20170816_0700,2017,August,"Sta. Barbara, Pangasinan",Luzon,PH,15.967806,120.429905,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20180421_0600,2018,April,"Bontoc, Mountain Province",Luzon,PH,17.030653,120.941132,*,1 cm,Small,hail,Source 1,,,,*,Active
+20180421_0600,2018,April,"Atok, Benguet",Luzon,PH,16.630596,120.763933,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20180517_0900,2018,May,"Mexico, Pampanga",Luzon,PH,15.095968,120.680755,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20180920_0800,2018,September,"Davao City, Davao del Sur",Mindanao,PH,7.03268,125.491586,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20180921_0600,2018,September,"Talaingod, Davao del Norte",Mindanao,PH,7.630191,125.573213,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20181014_0800,2018,October,"La Carlota City, Negros Occidental",Visayas,PH,10.405964,122.998752,*,3 cm,Large,hail,Source 1,,,,*,Active
+20190412_0600,2019,April,"Philips Manolo Fortich, Bukidnon",Mindanao,PH,8.326784,124.813227,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20190429_0600,2019,April,"Rosales, Pangasinan",Luzon,PH,15.886865,120.633616,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20190518_0800,2019,May,"Bayombong, Nueva Vizcaya",Luzon,PH,16.49338,121.161689,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20190521_0500,2019,May,"Calamba, Laguna",Luzon,PH,14.205695,121.096814,*,1 cm,Small,hail,Source 1,,,,*,Active
+20190603_0600,2019,June,"Alcala, Cagayan",Luzon,PH,17.90352,121.657475,*,1 cm,Small,hail,Source 1,,,,*,Active
+20190603_0600,2019,June,"Tayum, Abra",Luzon,PH,17.60495,120.670909,*,*,Undefined,hail,Source 1,,,,*,Active
+20190603_0800,2019,June,"Quezon City, Metro Manila",Luzon,PH,14.682777,121.040249,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20190703_0500,2019,July,"Toledo City, Cebu",Visayas,PH,10.30681,123.704889,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20191002_0530,2019,October,"Luisiana, Laguna",Luzon,PH,14.190133,121.508083,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20191002_0600,2019,October,"Muzon, Bulacan",Luzon,PH,14.80446,121.025741,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20191003_0600,2019,October,"Alfonso, Cavite",Luzon,PH,14.126954,120.831141,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20191003_0600,2019,October,"Cabuyao City, Laguna",Luzon,PH,14.250856,121.128808,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20191003_0600,2019,October,"Quezon City, Metro Manila",Luzon,PH,14.624784,121.06433,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20191003_0700,2019,October,"M'lang, North Cotabato",Mindanao,PH,6.947416,124.882116,*,1 cm,Small,hail,Source 1,,,,*,Active
+20191111_0730,2019,November,"Makilala, North Cotabato",Mindanao,PH,6.988742,125.084893,*,2 cm,Severe,hail,Source 1,Source 2,,,*,Active
+20200422_0600,2020,April,"Bontoc, Mountain Province",Luzon,PH,17.029893,120.939848,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20200422_0600,2020,April,"Sabangan, Mountain Province",Luzon,PH,16.94465,120.912708,*,3 cm,Large,hail,Source 1,Source 2,Source 3,,*,Active
+20200423_0600,2020,April,"Kabayan, Benguet",Luzon,PH,16.570614,120.859763,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20200423_0600,2020,April,"Bokod, Benguet",Luzon,PH,16.547058,120.852572,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20200508_0900,2020,May,"Cabiao, Nueva Ecija",Luzon,PH,15.235266,120.84717,*,5 cm,Significant,hail,Source 1,Source 2,,With Radar Reflectivity Scan and Satellite Imagery.,*,Active
+20200510_0600,2020,May,"Jaen, Nueva Ecija",Luzon,PH,15.355709,120.899616,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20200510_0600,2020,May,Baguio City. Benguet,Luzon,PH,16.450261,120.594892,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20200519_0500,2020,May,"Los Banos, Laguna",Luzon,PH,14.163339,121.237365,*,1 cm,Small,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20200519_0500,2020,May,"Calaun, Laguna",Luzon,PH,14.184979,121.336045,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200524_0700,2020,May,"La Castellana, Negros Occidental",Visayas,PH,10.322108,123.019589,,2 cm,Severe,hail,Source 1,,,,*,Active
+20200607_0700,2020,June,"Alaminos, Pangasinan",Luzon,PH,16.156638,119.977859,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200610_0700,2020,June,"Malolos, Bulacan",Luzon,PH,14.845468,120.827578,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200613_0700,2020,June,"Solsona, Ilocos Norte",Luzon,PH,18.094514,120.772501,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200709_0600,2020,July,"Baguio City, Benguet",Luzon,PH,16.422599,120.554231,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200720_0700,2020,July,"Lopez, Quezon",Luzon,PH,13.881644,122.263184,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20200723_0600,2020,July,"Pulilan, Bulacan",Luzon,PH,14.91063,120.846033,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20210509_0800,2021,May,"Sagada, Mountain Province",Luzon,PH,17.102393,120.904553,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210509_0800,2021,May,"Quezon City, Metro Manila",Luzon,PH,14.694461,121.053304,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210521_0600,2021,May,"Silang, Cavite",Luzon,PH,14.213025,120.96462,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210524_0500,2021,May,"Indang, Cavite",Luzon,PH,14.209383,120.888448,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20210617_0600,2021,June,"Mabalacat, Pampanga",Luzon,PH,15.187773,120.584581,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210701_0700,2021,July,"Sto. Tomas, Batangas",Luzon,PH,14.056055,121.200828,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210718_0700,2021,July,"Rizal, Laguna",Luzon,PH,14.110747,121.382958,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210712_0600,2021,July,"Aguilar, Pangasinan",Luzon,PH,15.833534,120.262795,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210713_0800,2021,July,"Sitio Orno, Bugallon, Pangasinan",Luzon,PH,15.950166,120.207735,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20210813_0700,2021,August,"Norzagaray, Bulacan",Luzon,PH,14.870047,121.036323,*,8 cm,Significant,hail,Source 1,Source 2,Source 3,"Potentially, largest hail recorded in the Philippines. Significant hail.",*,Active
+20210813_0700,2021,August,"San Jose Del Monte, Bulacan",Luzon,PH,14.826957,121.042793,*,4 cm,Large,hail,Source 1,Source 2,Source 3,,*,Active
+20210813_0700,2021,August,"Sta. Maria, Bulacan",Luzon,PH,14.847168,120.995125,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20210820_0700,2021,August,"Isulan, Sultan Kudarat",Mindanao,PH,6.622873,124.598304,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20220130_0100,2022,January,"Villaviciosa, Abra",Luzon,PH,17.403234,120.667135,*,2 cm,Severe,"hail, elevated",Source 1,Source 2,,,*,Active
+20220603_0700,2022,June,"Aglipay, Quirino",Luzon,PH,16.498906,121.589894,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20220621_0700,2022,June,"Naic, Cavite",Luzon,PH,14.303354,120.776255,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20220625_0600,2022,June,"Metro Cebu, Cebu",Visayas,PH,10.330622,123.874704,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20220716_0600,2022,July,"Wao, Lanao del Sur",Mindanao,PH,7.643946,124.726238,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20220826_0700,2022,August,"Tanza, Cavite",Luzon,PH,14.329484,120.844425,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20221009_0700,2022,October,"Atok, Benguet",Luzon,PH,16.599514,120.685912,*,*,Undefined,hail,DSWD DROMIC,,,No pictures of the hail sample.,*,Active
+20221009_0700,2022,October,"Tublay, Benguet",Luzon,PH,16.512275,120.633434,*,*,Undefined,hail,DSWD DROMIC,,,No pictures of the hail sample.,*,Active
+20221009_0700,2022,October,"Baguio City, Benguet",Luzon,PH,16.421065,120.609678,*,1 cm,Small,hail,DSWD DROMIC,Source 2,,,*,Active
+20221009_0700,2022,October,"Cabatuan, Isabela",Luzon,PH,16.969928,121.678372,*,1 cm,Small,hail,Source 1,,,,*,Active
+20221108_0800,2022,November,"Bayawan City, Negros Oriental",Visayas,PH,9.688195,122.848974,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20230329_0600,2023,March,"Mankayan, Benguet",Luzon,PH,16.870062,120.777373,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20230420_0800,2023,April,"Mabinay, Negros Oriental",Visayas,PH,9.697958,122.933793,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20230421_0600,2023,April,"San Pablo, Tarlac City",Luzon,PH,15.474398,120.576284,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20230421_0700,2023,April,"Badaingan, Iloilo",Visayas,PH,10.977125,122.559322,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20230424_0800,2023,April,"Ambaguio, Nueva Vizcaya",Luzon,PH,16.573559,121.073284,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20230502_0700,2023,May,"Licuan-Baay, Abra",Luzon,PH,17.607529,120.922474,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20230508_0700,2023,May,"San Jose Del Monte, Bulacan",Luzon,PH,14.819835,121.060666,*,*,Undefined,hail,Source 1,,,No pictures of the hail sample.,*,Active
+20230524_0500,2023,May,"Libona, Bukidnon",Mindanao,PH,8.363688,124.697029,*,1 cm,Small,hail,Source 1,,,,*,Active
+20230707_0730,2023,July,"Pulilan, Bulacan",Luzon,PH,14.923698,120.845054,*,2 cm,Severe,hail,Source 1,Source 2,Source 3,,*,Active
+20230707_1000,2023,July,"Mabalacat, Pampanga",Luzon,PH,15.227535,120.612715,*,1 cm,Small,hail,Source 1,Source 2,,,*,Active
+20231129_0600,2023,November,"Davao City, Davao del Sur",Mindanao,PH,7.074788,125.57669,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20240326_0700,2024,March,"La Trinidad, Benguet",Luzon,PH,16.453206,120.586908,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20240327_0615,2024,March,"Danglas, Abra",Luzon,PH,17.686747,120.657756,*,3 cm,Large,"hail, elevated",Source 1,Source 2,,No research at the moment. But Laoag Sounding at 12 UTC shows ample instability and strong deep-layer shear supportive of hail threat.,*,Active
+20240328_0600,2024,March,"Kabacan, Cotabato",Mindanao,PH,7.110922,124.799244,*,1 cm,Small,hail,Source 1,Source 2,Source 3,Pellet size,*,Active
+20240329_0500,2024,March,"Sagada, Mountain Province",Luzon,PH,17.090954,120.904025,*,3 cm,Large,hail,Source 1,Source 2,,,*,Active
+20240329_0500,2024,March,"Kibungan, Benguet",Luzon,PH,16.695675,120.735459,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20240423_0700,2024,April,"Tarlac City, Tarlac",Luzon,PH,15.467342,120.584963,*,2 cm,Severe,hail,Source 1,Source 2,Source 3,,*,Active
+20240425_0600,2024,April,"Solana, Cagayan",Luzon,PH,17.628039,121.642433,*,3 cm,Large,hail,Source 1,,,,*,Active
+20240427_0800,2024,April,"Carmen, North Cotabato",Mindanao,PH,7.288431,124.786412,*,1 cm,Small,hail,Source 1,NDRRMC,DSWD DROMIC,Pellet size,*,Active
+20240430_0800,2024,April,"Baguio City, Benguet",Luzon,PH,16.417479,120.585901,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20240513_0600,2024,May,"Quezon City, Metro Manila",Luzon,PH,14.641583,121.015319,*,1 cm,Small,hail ,Source 1,Source 2,Source 3,Pellet size,*,Active
+20240702_0600,2024,July,"Agoo, La Union",Luzon,PH,16.341783,120.388391,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20240725_0700,2024,July,"La Paz, Agusan Del Sur",Mindanao,PH,8.24478,125.782216,*,3 cm,Large,hail,Source 1,Source 2,Source 3,,*,Active
+20240817_0600,2024,August,"San Felipe City, Batangas",Luzon,PH,13.882186,121.20549,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20240819_0800,2024,August,"Manila City, Metro Manila",Luzon,PH,14.614432,120.968424,*,1 cm,Small,hail,Source 1,Source 2,,Pellet size,*,Active
+20240819_0800,2024,August,"Makati City, Metro Manila",Luzon,PH,14.54397,121.040712,*,2 cm,Severe,hail,Source 1,Source 2,,,*,Active
+20240819_0800,2024,August,"Bamban, Tarlac",Luzon,PH,15.293551,120.541477,*,1 cm,Small,hail,Source 1,,,Pellet size,*,Active
+20240821_0800,2024,August,"Dasmarinas, Cavite",Luzon,PH,14.298892,120.952717,*,2 cm,Severe,hail,Source 1,,,,*,Active
+20240821_0900,2024,August,"Dahilayan, Bukidnon",Mindanao,PH,8.205793,124.857028,*,1 cm,Small,hail,Source 1,,,,*,Active
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,*,
