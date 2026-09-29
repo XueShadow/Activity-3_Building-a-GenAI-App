@@ -6,6 +6,8 @@ A Generative AI-powered Streamlit application that analyzes disaster-related mes
 
 This project was developed for CS 315 – Application Development and Emerging Technologies, Activity 3.
 
+⸻
+
 Project Overview
 
 The goal of this activity is to build a GenAI application using a dataset different from the previous activity.
@@ -21,7 +23,7 @@ The application allows users to:
 * Analyze individual disaster narratives using Generative AI
 * Ask questions about the loaded dataset through a chatbot
 
-
+⸻
 
 App Idea
 
@@ -42,7 +44,7 @@ The application focuses on:
 * AI-generated summaries and insights
 * Dataset question answering
 
-
+⸻
 
 Dataset
 
@@ -69,7 +71,7 @@ Original dataset repository:
 
 https://github.com/canaveensetia/udacity-disaster-response-pipeline/tree/master/data
 
-
+⸻
 
 Technologies Used
 
@@ -102,6 +104,7 @@ Development Tools
 * GitHub
 * Python Virtual Environment
 
+⸻
 
 Project Structure
 
@@ -120,7 +123,7 @@ Activity-3_Building-a-GenAI-App/
 │
 └── README.md
 
-
+⸻
 
 Application Features
 
@@ -136,7 +139,7 @@ The preprocessing stage handles:
 * Location information
 * Data formatting
 
-
+⸻
 
 2. Interactive Filtering
 
@@ -150,6 +153,7 @@ Examples include:
 
 Filtering allows users to focus on specific parts of the dataset instead of analyzing all records at once.
 
+⸻
 
 3. Dataset Statistics
 
@@ -162,6 +166,7 @@ Examples include:
 * Number of locations
 * Distribution of disaster-related messages
 
+⸻
 
 4. Data Visualization
 
@@ -174,6 +179,7 @@ Visualizations can be used to examine:
 * Location distribution
 * Filtered dataset statistics
 
+⸻
 
 5. GenAI Narrative Analysis
 
@@ -183,6 +189,7 @@ The AI can extract structured information and provide an interpretation of the s
 
 This demonstrates how GenAI can be combined with traditional data analysis.
 
+⸻
 
 6. Dataset Chatbot
 
@@ -198,6 +205,7 @@ What information can be found in this dataset?
 
 The chatbot provides a more natural way to interact with the dataset.
 
+⸻
 
 How the Application Works
 
@@ -233,6 +241,7 @@ The application follows this workflow:
                               │ Insights        │
                               └─────────────────┘
 
+⸻
 
 Installation
 
@@ -262,7 +271,7 @@ Windows
 
 pip install -r streamlit/requirements.txt
 
-
+⸻
 
 Running the Application
 
@@ -276,7 +285,7 @@ http://localhost:8501
 
 Open the URL in a web browser to use the application.
 
-
+⸻
 
 GenAI Configuration
 
@@ -296,6 +305,7 @@ Do not commit API keys or access tokens to GitHub.
 
 Use environment variables or Streamlit secrets instead.
 
+⸻
 
 Creating the Dataset
 
@@ -309,6 +319,7 @@ The generated dataset is placed inside:
 
 data/disaster_narratives.csv
 
+⸻
 
 Testing
 
@@ -330,6 +341,7 @@ Testing should verify that:
 6. The chatbot provides relevant answers about the dataset.
 7. Missing or empty input does not crash the application.
 
+⸻
 
 Future Improvements
 
@@ -396,6 +408,7 @@ as the application entry point.
 4. Configure required secrets such as the Hugging Face token.
 5. Deploy the application.
 
+⸻
 
 Learning Objectives
 
@@ -414,6 +427,7 @@ The main concepts demonstrated are:
 * AI-assisted narrative analysis
 * Application deployment
 
+⸻
 
 Academic Activity Requirements
 
@@ -428,6 +442,7 @@ Test and iterate	Dataset, filters, AI prompts
 Deployment	Streamlit Community Cloud
 Future goals	Advanced filters and AI chatbot
 
+⸻
 
 Project Status
 
@@ -435,6 +450,7 @@ Status: Completed for CS 315 Activity 3
 
 The current version includes dataset processing, interactive filtering, visualization, GenAI-assisted narrative analysis, and dataset chatbot functionality.
 
+⸻
 
 Author
 
