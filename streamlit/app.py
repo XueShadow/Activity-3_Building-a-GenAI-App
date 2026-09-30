@@ -534,8 +534,4 @@ else:
         st.write(f"Response Actions: **{format_analysis_field(result.get('response_actions'))}**")
         st.write(f"Keywords: **{format_analysis_field(result.get('keywords'))}**")
 
-    st.subheader("Dataset chatbot")
-    question = st.text_input("Ask about the loaded dataset", placeholder="How many flood narratives are there?")
-    if st.button("Ask chatbot") and question.strip():
-        answer, _ = answer_dataset_question(question, df)
-        st.info(answer)
+
